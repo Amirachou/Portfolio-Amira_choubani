@@ -1,3 +1,4 @@
+import type { TConfig } from "../types";
 export const config: TConfig = {
   html: {
     title: "Amira Choubani — VR & Game Developer Portfolio",
