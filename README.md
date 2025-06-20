@@ -72,10 +72,5 @@ npm run dev
 
 Démarre le serveur de développement (localhost)
 
-npm run build
-
-Génère les fichiers de production
-
-npm run preview
-
-Prévisualise le build localement
+npm install
+npm run dev
