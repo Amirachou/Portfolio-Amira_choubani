@@ -60,3 +60,22 @@ Cloner ce dépôt :
 ```bash
 git clone https://github.com/Amirachou/Portfolio-Amira_choubani.git
 cd Portfolio-Amira_choubani
+Scripts & Lancement
+
+Le projet utilise Vite. Voici les commandes principales :
+
+Commande
+
+Description
+
+npm run dev
+
+Démarre le serveur de développement (localhost)
+
+npm run build
+
+Génère les fichiers de production
+
+npm run preview
+
+Prévisualise le build localement
